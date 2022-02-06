@@ -1,0 +1,6 @@
+{
+    "existing_login": "user1",
+    "existing_password": "password",
+    "not_existing_login": "fake_login",
+    "not_existing_password": "fake_password"
+}
